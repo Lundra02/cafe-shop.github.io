@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #13131a;
+    background-size: cover;
+    color: black;
+    padding-top: 50px; /* Adjust as needed for fixed navbar */
+  }
+
+
+  .blog-post {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    
+  }
